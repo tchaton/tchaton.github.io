@@ -1,0 +1,3 @@
+For installing nokogiri : you need to install libxml first via apt-get
+https://stackoverflow.com/questions/6277456/nokogiri-installation-fails-libxml2-is-missing
+
